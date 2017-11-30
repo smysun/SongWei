@@ -1,3 +1,4 @@
 # SongWei
-简易计算器
-实现简单计算的计算器代码
+Simple calculator
+Calculator code to achieve simple calculations
+
